@@ -3,6 +3,8 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet"></link>
+
 function App() {
   const [count, setCount] = useState(0)
 
@@ -83,7 +85,7 @@ We also may provide aggregate, non-personally identifiable data (“Aggregate In
 
 You can exercise your right to prevent marketing communications sent to you at any time by using the unsubscribe link included in every marketing email footer. Also, you may submit your request through our <a href="https://phi.contentmen.in/contact-us/" target="_blank">Contact Us</a> form.<br></br>
 
-Also, to find the Bellospace‘s affiliate in your country, visit our Contact Us page.</p>
+Also, to find the Bellospace‘s affiliate in your country, visit our <a href="https://phi.contentmen.in/contact-us/" target="_blank">Contact Us</a> form.<br></br> page.</p>
 
 
  <h1 align="left">Privacy Policy Updates</h1>
